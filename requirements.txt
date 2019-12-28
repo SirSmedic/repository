@@ -1,3 +1,0 @@
-gmaps
-googlemaps
-ipywidgets
